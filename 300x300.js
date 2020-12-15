@@ -1,5 +1,7 @@
 var ifrm = document.createElement("iframe");
 ifrm.setAttribute("src", "https://asusid.xyz/banner/vivo-banner-300.php");
+ifrm.style.width = "250px";
+ifrm.style.height = "217px";
 ifrm.style.overflow = "hidden";
 ifrm.scrolling = "none";
 
