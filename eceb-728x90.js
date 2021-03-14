@@ -1,7 +1,7 @@
 var ifrm = document.createElement("iframe");
 ifrm.setAttribute("src", "https://asusid.xyz/banner/eceb-banner-728.php");
-ifrm.style.width = "700px";
-ifrm.style.height = "80px";
+ifrm.style.width = "600px";
+ifrm.style.height = "70px";
 ifrm.style.overflow = "hidden";
 ifrm.scrolling = "none";
 
