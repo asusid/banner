@@ -3,6 +3,7 @@ ifrm.setAttribute("src", "https://asusid.xyz/banner/eceb-banner-728.php");
 ifrm.style.width = "100%";
 ifrm.style.height = "100%";
 ifrm.style.overflow = "hidden";
+ifrm.position = "absolute";
 ifrm.scrolling = "none";
 
 var div = document.getElementById("banner-asus-index-728");
